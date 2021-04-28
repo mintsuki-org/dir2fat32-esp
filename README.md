@@ -18,8 +18,7 @@ dir2fat32-esp requires the following packages to be installed on the host Linux
 system:
 
 - util-linux (`fdisk`)
-- dosfstools (`mkfs.fat`)
-- mtools (`mmd`, `mcopy`)
+- mtools (`mmd`, `mcopy`, `mformat`)
 
 ## Quick usage guide
 
